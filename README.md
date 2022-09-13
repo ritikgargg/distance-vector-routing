@@ -1,7 +1,5 @@
 # Distance Vector Routing
 
----
-
 ### Description
 
 Implementing distance vector routing for the topology given below:
@@ -53,8 +51,7 @@ B|  1A 0B ∞  ∞  2A
 C|  ∞  ∞  0C 1D 2D
 D|  2E 2C 1C 0D 1E
 E|  1A 2A 2D 1D 0E
-```
-```
+
 t =  4
 A|  0A 1B 3E 2E 1E
 B|  1A 0B ∞  3A 2A
